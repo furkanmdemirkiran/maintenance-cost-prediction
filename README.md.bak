@@ -24,7 +24,7 @@ This project predicts maintenance costs in an industrial facility using machine 
 
 ## Türkçe
 
-Bu proje, bir tesisteki toplam bakım maliyetlerini makine öğrenmesi teknikleri kullanarak tahmin etmeye odaklanmaktadır. Veri ön işleme, eksik veri analizi, eksik verilerin tamamlanması, sayısallaştırma ve Doğrusal Regresyon (Linear Regression) modellemesi süreçlerini içermektedir.
+Bu proje, endüstriyel bir tesisteki toplam bakım maliyetlerini makine öğrenmesi teknikleri kullanarak tahmin etmeye odaklanmaktadır. Veri ön işleme, eksik veri analizi, özellik mühendisliği ve Doğrusal Regresyon (Linear Regression) modellemesi süreçlerini içermektedir.
 
 ### Öne Çıkan Özellikler
 - **Veri Temizleme ve Mantıksal Doldurma:** Veri setindeki tutarsız değerler ("?") filtrelenmiş; eksik veriler (NaN), tesis bölgeleri ve vardiyalara göre gruplanarak mod/medyan tabanlı mantıksal yöntemlerle (Imputation) doldurulmuştur.
