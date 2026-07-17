@@ -28,7 +28,7 @@ Bu proje, bir tesisteki toplam bakım maliyetlerini makine öğrenmesi teknikler
 
 ### Öne Çıkan Özellikler
 - **Veri Temizleme ve Mantıksal Doldurma:** Veri setindeki tutarsız değerler ("?") filtrelenmiş; eksik veriler (NaN), tesis bölgeleri ve vardiyalara göre gruplanarak mod/medyan tabanlı mantıksal yöntemlerle (Imputation) doldurulmuştur.
-- **Özellik Dönüştürme (Feature Engineering):** Kategorik değişkenleri makine öğrenmesi modeline hazırlamak amacıyla One-Hot Encoding ve veri haritalama (Mapping) yöntemleri uygulanmıştır
+- **Özellik Dönüştürme (Feature Engineering):** Kategorik değişkenleri makine öğrenmesi modeline hazırlamak amacıyla One-Hot Encoding ve veri haritalama (Mapping) yöntemleri uygulanmıştır.
 - **Tahminleme ve Modelleme:** Ölçeklendirilmiş makine parametreleri (titreşim seviyesi, makine yaşı, çalışma saati, arıza sayısı vb.) üzerinden toplam bakım maliyetini öngören bir Doğrusal Regresyon (Linear Regression) modeli geliştirilmiştir.
 
 ### Model Detayları
